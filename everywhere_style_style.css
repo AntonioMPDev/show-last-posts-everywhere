@@ -1,0 +1,19 @@
+/**
+Hello
+*/
+.parent{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#divWpVue{
+    max-width: 100%;
+}
+
+.child-post{
+    padding: 2em;
+    width: 25%;
+}
+.child-post h2{
+    font-size: 1em;
+}
